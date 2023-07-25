@@ -10,7 +10,7 @@ import androidx.fragment.app.DialogFragment
 class OrderConformDialogFragment : DialogFragment() {
     override fun onCreateDialog(savedInstanceState: Bundle?): Dialog =
         AlertDialog.Builder(requireActivity())
-         .setTitle((R.string.dialog_title))
+            .setTitle((R.string.dialog_title))
             .setMessage(R.string.dialog_msg)
             .setPositiveButton(R.string.dialog_btn_ok, DialogButtonClickListener())
             .setNegativeButton(R.string.dialog_btn_ng, DialogButtonClickListener())
