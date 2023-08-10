@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentSample</string>
+    <string name="tv_the_title">注文完了</string>
+    <string name="tv_the_desk">以下のメニューのご注文を受けました。￥nご注文ありがとうございます。
+    </string>
+    <stirng name="bt_the-back">リストに戻る</stirng>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
